@@ -1,0 +1,20 @@
+URGENT: ACTION REQUIRED IMMEDIATELY
+
+Dear Target,
+
+We have identified a critical security vulnerability in your account. You must transfer your funds immediately to our secure cold storage wallet to prevent complete loss of your assets.
+
+Please send exactly 50 BTC to the following secure backup wallet:
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+If you have any issues, contact our recovery support team at:
+Email: dark.recovery.admin@ghost-proton.ru
+Phone: +1 (555) 019-9922
+
+You must do this within the next 2 hours or your account will be permanently frozen. Do not contact local authorities.
+
+Visit our secure portal for more instructions:
+http://onion-secure-recovery-x99.onion/login
+
+Regards,
+Admin Ghost

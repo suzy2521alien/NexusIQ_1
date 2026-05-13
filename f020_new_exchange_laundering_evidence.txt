@@ -1,0 +1,29 @@
+CASE-20260510-F020 SUPPLEMENTAL EVIDENCE
+Source: intercepted support chat and exchange off-ramp note
+
+Operator "Mira" instructed the victim to avoid the police and move funds before the fraud review window closed.
+The victim was told: "Your Coinbase account will be frozen in 4 hours unless you transfer the remaining BTC to the recovery wallet."
+
+Primary recovery wallet:
+bc1q7x9m2k3p5r8s0v4t6w1y3z5n7q9r2a4c6e8m0p
+
+Secondary mule wallet:
+3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
+
+Contact points observed:
+Email: mira.recovery.desk@protonmail.com
+Telegram: @mira_recovery_ops
+Phone: +1-202-555-0188
+
+Off-ramp URL shared by the actor:
+https://secure-ledger-review.example.com/claim
+
+Language indicators:
+- urgent payment pressure
+- account freeze threat
+- crypto recovery scam
+- instruction not to contact authorities
+- mule wallet off-ramp behavior
+
+Final actor message:
+"Send the BTC now. Do not contact your bank or local authorities. Once blockchain confirmation arrives, we will release the account hold."
