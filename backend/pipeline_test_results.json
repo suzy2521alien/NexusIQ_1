@@ -1,0 +1,2080 @@
+{
+  "module2_results": [
+    {
+      "case_id": "CASE-20260510-1573",
+      "source_file": "inv_scam_001.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "High intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (4 instances)",
+          "Investment language detected (6 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-8E99",
+      "source_file": "inv_scam_002.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "High intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (4 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-D437",
+      "source_file": "inv_scam_003.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "High intent confidence",
+          "2 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (4 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 2,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 2
+      }
+    },
+    {
+      "case_id": "CASE-20260510-CBA5",
+      "source_file": "inv_scam_004.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "High intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (4 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-0B8F",
+      "source_file": "inv_scam_005.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "High intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (4 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 1,
+        "names": 2
+      }
+    },
+    {
+      "case_id": "CASE-20260510-547E",
+      "source_file": "romance_001.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 55,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-9AC7",
+      "source_file": "romance_002.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 50,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "Urgency language detected (1 instances)",
+          "Investment language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-B9E0",
+      "source_file": "romance_003.txt",
+      "intent": {
+        "labels": [
+          "romance_scam"
+        ],
+        "confidence": 0.8
+      },
+      "risk_assessment": {
+        "score": 35,
+        "level": "LOW",
+        "reasons": [
+          "Medium intent confidence",
+          "Urgency language detected (1 instances)",
+          "Investment language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 1,
+        "urls": 0,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-3913",
+      "source_file": "romance_004.txt",
+      "intent": {
+        "labels": [
+          "investment_scam"
+        ],
+        "confidence": 0.85
+      },
+      "risk_assessment": {
+        "score": 50,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "Urgency language detected (1 instances)",
+          "Investment language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-42A8",
+      "source_file": "phishing_001.txt",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.9
+      },
+      "risk_assessment": {
+        "score": 55,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-46EE",
+      "source_file": "phishing_002.txt",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.9
+      },
+      "risk_assessment": {
+        "score": 70,
+        "level": "HIGH",
+        "reasons": [
+          "High intent confidence",
+          "2 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 3,
+        "urls": 2,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-D817",
+      "source_file": "phishing_003.txt",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.9
+      },
+      "risk_assessment": {
+        "score": 55,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F4AD",
+      "source_file": "phishing_004.txt",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.9
+      },
+      "risk_assessment": {
+        "score": 70,
+        "level": "HIGH",
+        "reasons": [
+          "High intent confidence",
+          "2 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 2,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-A8B4",
+      "source_file": "job_scam_001.txt",
+      "intent": {
+        "labels": [
+          "job_scam"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 60,
+        "level": "HIGH",
+        "reasons": [
+          "Medium intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-0CF5",
+      "source_file": "job_scam_002.txt",
+      "intent": {
+        "labels": [
+          "job_scam"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 70,
+        "level": "HIGH",
+        "reasons": [
+          "Medium intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 2,
+        "phones": 2,
+        "urls": 1,
+        "names": 2
+      }
+    },
+    {
+      "case_id": "CASE-20260510-C4A8",
+      "source_file": "job_scam_003.txt",
+      "intent": {
+        "labels": [
+          "job_scam"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 70,
+        "level": "HIGH",
+        "reasons": [
+          "Medium intent confidence",
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 2,
+        "phones": 1,
+        "urls": 1,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-D3F2",
+      "source_file": "impersonation_001.txt",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.9
+      },
+      "risk_assessment": {
+        "score": 40,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 5,
+        "urls": 0,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-EBB5",
+      "source_file": "impersonation_002.txt",
+      "intent": {
+        "labels": [
+          "impersonation"
+        ],
+        "confidence": 0.95
+      },
+      "risk_assessment": {
+        "score": 55,
+        "level": "MEDIUM",
+        "reasons": [
+          "High intent confidence",
+          "Urgency language detected (2 instances)",
+          "Investment language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 3,
+        "urls": 0,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F52B",
+      "source_file": "impersonation_003.txt",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.6
+      },
+      "risk_assessment": {
+        "score": 0,
+        "level": "LOW",
+        "reasons": []
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      }
+    },
+    {
+      "case_id": "CASE-20260510-C5DF",
+      "source_file": "impersonation_004.txt",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.6
+      },
+      "risk_assessment": {
+        "score": 10,
+        "level": "LOW",
+        "reasons": [
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 3,
+        "urls": 0,
+        "names": 0
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F020",
+      "source_file": "test_fraud_evidence.txt",
+      "entities": {
+        "wallets": [
+          "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "emails": [
+          "dark.recovery.admin@ghost-proton.ru"
+        ],
+        "phones": [
+          "1(555)0199922"
+        ],
+        "urls": [
+          "http://onion-secure-recovery-x99.onion/login"
+        ],
+        "names": [
+          "Admin Ghost"
+        ]
+      },
+      "raw_text": "urgent: action required immediately dear target, we have identified a critical security vulnerability in your account. you must transfer your funds immediately to our secure cold storage wallet to prevent complete loss of your assets. please send exactly  NUMBER  btc to the following secure backup wallet: 1a1zp1ep5qgefi2dmptftl5slmv7divfna if you have any issues, contact our recovery support team at: email: dark.recovery.admin@ghost-proton.ru phone: + NUMBER  ( NUMBER )  NUMBER - NUMBER  you must do this within the next  NUMBER  hours or your account will be permanently frozen. do not contact local authorities. visit our secure portal for more instructions: regards, admin ghost",
+      "timestamp": "2026-05-12T11:57:31.642831Z",
+      "hash": "2719a73733fe9bdffba846ea0ae231000ba3cb2a2fbe2a2963ecbb3996e1e71d",
+      "chain_of_custody": {
+        "officer": "Lead Investigator",
+        "source": "Physical Seizure"
+      },
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (6 instances)",
+          "Crypto/funds transfer language detected (6 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F020",
+      "source_file": "f020_new_exchange_laundering_evidence.txt",
+      "entities": {
+        "wallets": [
+          "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "emails": [
+          "mira.recovery.desk@protonmail.com"
+        ],
+        "phones": [
+          "12025550188",
+          "20260510"
+        ],
+        "urls": [
+          "https://secure-ledger-review.example.com/claim"
+        ],
+        "names": [
+          "Primary"
+        ]
+      },
+      "raw_text": "case- NUMBER -f020 supplemental evidence source: intercepted support chat and exchange off-ramp note operator \"mira\" instructed the victim to avoid the police and move funds before the fraud review window closed. the victim was told: \"your coinbase account will be frozen in  NUMBER  hours unless you transfer the remaining btc to the recovery wallet.\" primary recovery wallet: bc1q7x9m2k3p5r8s0v4t6w1y3z5n7q9r2a4c6e8m0p secondary mule wallet: 3j98t1wpez73cnmqviecrnyiwrnqrhwnly contact points observed: email: mira.recovery.desk@protonmail.com telegram: @mira_recovery_ops phone: + NUMBER - NUMBER - NUMBER - NUMBER  off-ramp url shared by the actor: language indicators: - urgent payment pressure - account freeze threat - crypto recovery scam - instruction not to contact authorities - mule wallet off-ramp behavior final actor message: \"send the btc now. do not contact your bank or local authorities. once blockchain confirmation arrives, we will release the account hold.\"",
+      "timestamp": "2026-05-12T19:53:57.618515Z",
+      "hash": "e10a39ad7a72539357f3c81e629cf693e8736f29e71e62f748af61cb6b9ea4b9",
+      "chain_of_custody": {
+        "officer": "Lead Investigator",
+        "source": "Physical Seizure"
+      },
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 99,
+        "level": "CRITICAL",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Crypto/funds transfer language detected (8 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260512-0FE5",
+      "source_file": "test_fraud_evidence.txt",
+      "entities": {
+        "wallets": [
+          "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "emails": [
+          "dark.recovery.admin@ghost-proton.ru"
+        ],
+        "phones": [
+          "1(555)0199922"
+        ],
+        "urls": [
+          "http://onion-secure-recovery-x99.onion/login"
+        ],
+        "names": [
+          "Admin Ghost"
+        ]
+      },
+      "raw_text": "urgent: action required immediately dear target, we have identified a critical security vulnerability in your account. you must transfer your funds immediately to our secure cold storage wallet to prevent complete loss of your assets. please send exactly  NUMBER  btc to the following secure backup wallet: 1a1zp1ep5qgefi2dmptftl5slmv7divfna if you have any issues, contact our recovery support team at: email: dark.recovery.admin@ghost-proton.ru phone: + NUMBER  ( NUMBER )  NUMBER - NUMBER  you must do this within the next  NUMBER  hours or your account will be permanently frozen. do not contact local authorities. visit our secure portal for more instructions: regards, admin ghost",
+      "timestamp": "2026-05-12T19:58:34.382659Z",
+      "hash": "2719a73733fe9bdffba846ea0ae231000ba3cb2a2fbe2a2963ecbb3996e1e71d",
+      "chain_of_custody": {
+        "officer": "Lead Investigator",
+        "source": "Physical Seizure"
+      },
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (6 instances)",
+          "Crypto/funds transfer language detected (6 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-1135",
+      "source_file": "job_scam_002.txt",
+      "entities": {
+        "wallets": [
+          "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+        ],
+        "emails": [
+          "jobs@easywork-online.com",
+          "hr@globaltech-solutions.net"
+        ],
+        "phones": [
+          "18005550402",
+          "3000"
+        ],
+        "urls": [
+          "https://easywork-online.com/register"
+        ],
+        "names": [
+          "Recruiter",
+          "Jennifer Taylor"
+        ]
+      },
+      "raw_text": "work from home opportunity \u2014 $ NUMBER /week guaranteed! no experience needed. immediate start. apply: jobs@easywork-online.com hr: hr@globaltech-solutions.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  registration fee: $ NUMBER  \u2014 send to 1boatslrhtknngkdxeeobr76b53lettpyt portal: recruiter: jennifer taylor",
+      "timestamp": "2026-05-10T11:52:10.530937Z",
+      "hash": "dd4dfac6334cdfebdd037db48e0069d916274c32bf3d9851d9556a216ca00752",
+      "_output_file": "job_scam_002_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 60,
+        "level": "HIGH",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 2,
+        "phones": 2,
+        "urls": 1,
+        "names": 2
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-6993",
+      "source_file": "phishing_004.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "irs.refund@gov-tax-portal.com"
+        ],
+        "phones": [
+          "18005550304",
+          "453288219901"
+        ],
+        "urls": [
+          "https://irs-refund-portal.net",
+          "https://microsoft-security-login.net/irs"
+        ],
+        "names": [
+          "Aadhar"
+        ]
+      },
+      "raw_text": "irs tax refund notification \u2014 $ NUMBER , NUMBER  pending! claim your refund: verify identity: contact irs agent: irs.refund@gov-tax-portal.com phone: + NUMBER - NUMBER - NUMBER - NUMBER  social security required for verification. aadhar equivalent:  NUMBER   NUMBER   NUMBER  act now. refund expires in  NUMBER  hours.",
+      "timestamp": "2026-05-10T11:52:10.421519Z",
+      "hash": "3f13d64e900591908833e955c3bec186a15f42ac5fac7c974d91fcd8e657947e",
+      "_output_file": "phishing_004_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 61,
+        "level": "HIGH",
+        "reasons": [
+          "2 URL(s) detected",
+          "Crypto/funds transfer language detected (4 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 2,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260502-A97C",
+      "source_file": "test.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "john@example.com"
+        ],
+        "phones": [],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "test file with john@example.com",
+      "timestamp": "2026-05-02T13:14:13.651948Z",
+      "hash": "66c003d2bba68287b753341fcc8fe2e5ff4efdcd12013c99ad9069025e1104d8",
+      "_output_file": "test_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 5,
+        "level": "LOW",
+        "reasons": [
+          "No high-risk extracted signals found"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 0,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-24EE",
+      "source_file": "impersonation_002.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "irs.collections@gov-irs-notice.com"
+        ],
+        "phones": [
+          "12025550502",
+          "2026",
+          "44821"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "notice from irs \u2014 unpaid taxes detected. you owe $ NUMBER , NUMBER  in back taxes. pay immediately to avoid prosecution. wire transfer or crypto: 0xdeadbeef1234567890deadbeef1234567890dead irs agent: irs.collections@gov-irs-notice.com phone: + NUMBER - NUMBER - NUMBER - NUMBER  reference: irs- NUMBER -tax- NUMBER  pay now. warrant will be issued in  NUMBER  hours.",
+      "timestamp": "2026-05-10T11:52:10.672634Z",
+      "hash": "f6dbf2152f969a0d8092fc68f13e6f95977ed166d7e857e9b49b0b667ee0b8a4",
+      "_output_file": "impersonation_002_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 30,
+        "level": "MEDIUM",
+        "reasons": [
+          "Urgency language detected (1 instances)",
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 3,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-474A",
+      "source_file": "job_scam_001.txt",
+      "entities": {
+        "wallets": [
+          "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+        ],
+        "emails": [
+          "hr@globaltech-solutions.net"
+        ],
+        "phones": [
+          "18005550401",
+          "5000"
+        ],
+        "urls": [
+          "https://globaltech-solutions.net/jobs"
+        ],
+        "names": [
+          "Patricia Moore"
+        ]
+      },
+      "raw_text": "congratulations! you have been selected for a remote job. position: data entry specialist \u2014 $ NUMBER /month company: global tech solutions hr contact: hr@globaltech-solutions.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  to activate your position, pay $ NUMBER  training fee. send to wallet: 1boatslrhtknngkdxeeobr76b53lettpyt website: contact hr manager: patricia moore",
+      "timestamp": "2026-05-10T11:52:10.479905Z",
+      "hash": "ca4b75f92e970fa00fd1453324f604a798c8c8be24c37fd5d12f4c8d6c7b5a65",
+      "_output_file": "job_scam_001_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 59,
+        "level": "MEDIUM",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-A69E",
+      "source_file": "romance_001.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "richard.spencer.army@gmail.com"
+        ],
+        "phones": [
+          "16465550201",
+          "3000"
+        ],
+        "urls": [],
+        "names": [
+          "Richard Spencer"
+        ]
+      },
+      "raw_text": "my darling, i am a us army soldier stationed in syria. i have fallen deeply in love with you. i need $ NUMBER  urgently for emergency medical treatment. please send via western union to: col. richard spencer my personal email: richard.spencer.army@gmail.com whatsapp: + NUMBER - NUMBER - NUMBER - NUMBER  i will repay you when i return. i love you. please help now.",
+      "timestamp": "2026-05-10T11:52:10.085002Z",
+      "hash": "01be350b2db0a746c3f4929e2cbc6b1a0044ec5250348eccf2a1bec2bc34b3ab",
+      "_output_file": "romance_001_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 21,
+        "level": "LOW",
+        "reasons": [
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-9A14",
+      "source_file": "inv_scam_004.txt",
+      "entities": {
+        "wallets": [
+          "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "emails": [
+          "activate@fastprofit.net"
+        ],
+        "phones": [
+          "442079460302",
+          "15000"
+        ],
+        "urls": [
+          "https://fastprofit-bot.net/activate"
+        ],
+        "names": [
+          "Robert Brown"
+        ]
+      },
+      "raw_text": "final notice: your crypto account is ready. deposit required:  NUMBER  btc to activate returns. wallet: 3j98t1wpez73cnmqviecrnyiwrnqrhwnly contact: activate@fastprofit.net helpline: + NUMBER - NUMBER - NUMBER - NUMBER  portal: your profit of $ NUMBER  is waiting. send money immediately. account manager: robert brown",
+      "timestamp": "2026-05-10T11:52:09.986078Z",
+      "hash": "d72856aacea23acb2cd7cec39671bca677a31538cf0f9b8fbe6fcf3c9271b326",
+      "_output_file": "inv_scam_004_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 69,
+        "level": "HIGH",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)",
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-99B2",
+      "source_file": "impersonation_001.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "fbi.agent.smith@fbi-cybercrime.net"
+        ],
+        "phones": [
+          "12025550501",
+          "10.0.0.45",
+          "5000",
+          "2026",
+          "88291"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "official notice \u2014 fbi cybercrime division your ip address  NUMBER . NUMBER  has been linked to illegal activity. to avoid arrest, pay $ NUMBER  fine immediately. payment: 0xdeadbeef1234567890deadbeef1234567890dead contact agent: fbi.agent.smith@fbi-cybercrime.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  case number: fbi- NUMBER -cy- NUMBER  failure to pay within  NUMBER  hours will result in arrest.",
+      "timestamp": "2026-05-10T11:52:10.621744Z",
+      "hash": "a33f7af40f1ca6937f97d1e8b83d4bdb8156744e229414d663be0c7bf7cfaa06",
+      "_output_file": "impersonation_001_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 42,
+        "level": "MEDIUM",
+        "reasons": [
+          "Urgency language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 5,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F150",
+      "source_file": "romance_003.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "oilrig.engineer.mike@yahoo.com",
+          "richard.spencer.army@gmail.com"
+        ],
+        "phones": [
+          "16465550203"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "my love, i am an oil rig engineer in the north sea. i have $ NUMBER  million in a security box i need to transfer. i need your help to receive the funds. send $ NUMBER  processing fee. email: oilrig.engineer.mike@yahoo.com backup: richard.spencer.army@gmail.com phone: + NUMBER - NUMBER - NUMBER - NUMBER  we will share the money equally. trust me darling. send now.",
+      "timestamp": "2026-05-10T11:52:10.189771Z",
+      "hash": "9fdd6a6971398f45813554691d41ba873daa2e036b709fa63faa57849801c918",
+      "_output_file": "romance_003_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 23,
+        "level": "LOW",
+        "reasons": [
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 1,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-16FD",
+      "source_file": "inv_scam_003.txt",
+      "entities": {
+        "wallets": [
+          "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+          "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "emails": [
+          "bot.trading@fastprofit.net"
+        ],
+        "phones": [
+          "442079460301",
+          "1000",
+          "3000"
+        ],
+        "urls": [
+          "https://fastprofit-bot.net"
+        ],
+        "names": [
+          "Broker",
+          "James Anderson"
+        ]
+      },
+      "raw_text": "bitcoin trading bot \u2014  NUMBER % profit in  NUMBER  days! send btc to: 1bvbmseystwetqtfn5au4m4gfg7xjanvn2 new wallet also active: 3j98t1wpez73cnmqviecrnyiwrnqrhwnly email: bot.trading@fastprofit.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  website: invest  NUMBER  get  NUMBER  return fast. urgent limited offer. broker: james anderson",
+      "timestamp": "2026-05-10T11:52:09.959180Z",
+      "hash": "9d17dc3f0d0321a6e6a442780b21f6e13bc4ec6ce203b43e8555204ba84dbff6",
+      "_output_file": "inv_scam_003_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 99,
+        "level": "CRITICAL",
+        "reasons": [
+          "2 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)",
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 2,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 2
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260512-42B4",
+      "source_file": "test_fraud_evidence.txt",
+      "entities": {
+        "wallets": [
+          "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "emails": [
+          "dark.recovery.admin@ghost-proton.ru"
+        ],
+        "phones": [
+          "1(555)0199922"
+        ],
+        "urls": [
+          "http://onion-secure-recovery-x99.onion/login"
+        ],
+        "names": [
+          "Admin Ghost"
+        ]
+      },
+      "raw_text": "urgent: action required immediately dear target, we have identified a critical security vulnerability in your account. you must transfer your funds immediately to our secure cold storage wallet to prevent complete loss of your assets. please send exactly  NUMBER  btc to the following secure backup wallet: 1a1zp1ep5qgefi2dmptftl5slmv7divfna if you have any issues, contact our recovery support team at: email: dark.recovery.admin@ghost-proton.ru phone: + NUMBER  ( NUMBER )  NUMBER - NUMBER  you must do this within the next  NUMBER  hours or your account will be permanently frozen. do not contact local authorities. visit our secure portal for more instructions: regards, admin ghost",
+      "timestamp": "2026-05-12T11:02:12.986851Z",
+      "hash": "2719a73733fe9bdffba846ea0ae231000ba3cb2a2fbe2a2963ecbb3996e1e71d",
+      "_output_file": "test_fraud_evidence_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (6 instances)",
+          "Crypto/funds transfer language detected (6 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260502-E670",
+      "source_file": "contacts.csv",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "john@example.com",
+          "jane@test.com"
+        ],
+        "phones": [
+          "5551234567"
+        ],
+        "urls": [],
+        "names": [
+          "John Doe",
+          "Jane Smith"
+        ]
+      },
+      "raw_text": "john doe john@example.com  NUMBER - NUMBER - NUMBER  jane smith jane@test.com",
+      "timestamp": "2026-05-02T13:14:50.288363Z",
+      "hash": "88b48b880db972d9aab7cc453989c3cc794cf59e626cdca7dfcee7fb695622ba",
+      "_output_file": "contacts_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 15,
+        "level": "LOW",
+        "reasons": [
+          "No high-risk extracted signals found"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 1,
+        "urls": 0,
+        "names": 2
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-7743",
+      "source_file": "impersonation_004.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "un.lottery@united-nations-prize.com",
+          "prince.emmanuel@royalnigeria.net"
+        ],
+        "phones": [
+          "2348055500602",
+          "1000",
+          "4532882199011234"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "congratulations \u2014 un lottery winner! you have won $ NUMBER , NUMBER , NUMBER  in the united nations lottery. claim your prize: un.lottery@united-nations-prize.com verification agent: prince.emmanuel@royalnigeria.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  processing fee: $ NUMBER  \u2014 eth wallet: 0xdeadbeef1234567890deadbeef1234567890dead upi: lottery.claim@upi credit card required for verification:  NUMBER   NUMBER   NUMBER   NUMBER  claim expires in  NUMBER  hours. act now.",
+      "timestamp": "2026-05-10T11:52:10.788403Z",
+      "hash": "557a8a40fefef65f8bf40ba40f095e1e42a7af12067d57fab5a56c02fd6a93d1",
+      "_output_file": "impersonation_004_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 29,
+        "level": "LOW",
+        "reasons": [
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 3,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-F020",
+      "source_file": "romance_004.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "dr.james.wilson.md@gmail.com"
+        ],
+        "phones": [
+          "16465550204",
+          "2000"
+        ],
+        "urls": [],
+        "names": [
+          "James Wilson"
+        ]
+      },
+      "raw_text": "hello beautiful, i am a widowed doctor working in afghanistan. i have strong feelings for you after seeing your profile. i need $ NUMBER  for my daughter's school fees urgently. please help: dr.james.wilson.md@gmail.com whatsapp: + NUMBER - NUMBER - NUMBER - NUMBER  i will send you gifts and money when i return. love you. dr. james wilson",
+      "timestamp": "2026-05-10T11:52:10.235831Z",
+      "hash": "9edbade2019a318dfb7bd9c3305541dc33668ffeb409e20a5424d5e2ca4ece9f",
+      "_output_file": "romance_004_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 21,
+        "level": "LOW",
+        "reasons": [
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-E2E9",
+      "source_file": "inv_scam_005.txt",
+      "entities": {
+        "wallets": [
+          "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "emails": [
+          "forex.signals@tradepro.io"
+        ],
+        "phones": [
+          "18005550105"
+        ],
+        "urls": [
+          "https://tradepro.io/signals"
+        ],
+        "names": [
+          "Broker",
+          "William Davis"
+        ]
+      },
+      "raw_text": "forex trading signals \u2014  NUMBER % weekly returns! wire transfer or crypto accepted. btc wallet: 3j98t1wpez73cnmqviecrnyiwrnqrhwnly eth: 0xabcdef1234567890abcdef1234567890abcdef12 broker email: forex.signals@tradepro.io signal group: phone: + NUMBER - NUMBER - NUMBER - NUMBER  invest now. profit guaranteed. returns immediate. head trader: william davis",
+      "timestamp": "2026-05-10T11:52:10.027404Z",
+      "hash": "7a0e428275b865c49c5589c5ba14550c78bbf33d94e6b1d2b86b41c34a12e707",
+      "_output_file": "inv_scam_005_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 62,
+        "level": "HIGH",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Crypto/funds transfer language detected (3 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 1,
+        "names": 2
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-8A6F",
+      "source_file": "job_scam_003.txt",
+      "entities": {
+        "wallets": [
+          "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+        ],
+        "emails": [
+          "amazon-jobs@workfromhome-amazon.net",
+          "hr@globaltech-solutions.net"
+        ],
+        "phones": [
+          "18005550403"
+        ],
+        "urls": [
+          "https://workfromhome-amazon.net"
+        ],
+        "names": [
+          "Christopher Jackson"
+        ]
+      },
+      "raw_text": "amazon work-from-home hiring \u2014 $ NUMBER /hour! process orders from home. flexible hours. apply now: amazon-jobs@workfromhome-amazon.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  equipment deposit: $ NUMBER  \u2014 wallet: 1boatslrhtknngkdxeeobr76b53lettpyt job portal: hr: hr@globaltech-solutions.net hiring manager: christopher jackson",
+      "timestamp": "2026-05-10T11:52:10.572260Z",
+      "hash": "e422005c1bdc7f2fa59fa62288caac8eea009dede52a24e9d105aacab56ce066",
+      "_output_file": "job_scam_003_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 59,
+        "level": "MEDIUM",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 2,
+        "phones": 1,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-DB60",
+      "source_file": "inv_scam_002.txt",
+      "entities": {
+        "wallets": [
+          "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+        ],
+        "emails": [
+          "profit.team@cryptoking.com"
+        ],
+        "phones": [
+          "18005550102",
+          "2000",
+          "10000"
+        ],
+        "urls": [
+          "https://cryptoking-returns.com/invest"
+        ],
+        "names": [
+          "David Williams"
+        ]
+      },
+      "raw_text": "exclusive crypto investment opportunity! minimum deposit: $ NUMBER . returns guaranteed within  NUMBER  hours. transfer to: 1bvbmseystwetqtfn5au4m4gfg7xjanvn2 or ethereum: 0xabcdef1234567890abcdef1234567890abcdef12 support: profit.team@cryptoking.com whatsapp: + NUMBER - NUMBER - NUMBER - NUMBER  platform: join  NUMBER  happy investors. profit now. quick returns guaranteed. manager: david williams",
+      "timestamp": "2026-05-10T11:52:09.915292Z",
+      "hash": "796bb09a6b8b62195419db7e6ba33e254075d3f859ec8fa7e7ff966c2cccecfb",
+      "_output_file": "inv_scam_002_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 74,
+        "level": "HIGH",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)",
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-07D4",
+      "source_file": "phishing_001.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "security@bankofamerica-alerts.net"
+        ],
+        "phones": [
+          "18005550301",
+          "192.168.45.23"
+        ],
+        "urls": [
+          "https://secure-bankofamerica-verify.com"
+        ],
+        "names": [
+          "Chrome"
+        ]
+      },
+      "raw_text": "alert: your bank account has been compromised! click immediately to verify: enter your credentials to restore access within  NUMBER  hours. support: security@bankofamerica-alerts.net reference: + NUMBER - NUMBER - NUMBER - NUMBER  failure to verify will result in permanent account suspension. ip logged:  NUMBER . NUMBER  device: windows  NUMBER , chrome",
+      "timestamp": "2026-05-10T11:52:10.284379Z",
+      "hash": "0261fb7e843815e31b0f9f89f27abe4a996a1ffa420ccdd71ab3560dea8cef77",
+      "_output_file": "phishing_001_processed.json",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 42,
+        "level": "MEDIUM",
+        "reasons": [
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-8FC6",
+      "source_file": "phishing_003.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "security@microsoft-alerts.net"
+        ],
+        "phones": [
+          "18005550303",
+          "10.0.0.45"
+        ],
+        "urls": [
+          "https://microsoft-security-login.net"
+        ],
+        "names": []
+      },
+      "raw_text": "microsoft security alert: unusual sign-in detected. verify your account: your ip  NUMBER . NUMBER  was flagged. contact: security@microsoft-alerts.net helpdesk: + NUMBER - NUMBER - NUMBER - NUMBER  click the link to secure your account immediately. failure to act will result in data loss.",
+      "timestamp": "2026-05-10T11:52:10.384015Z",
+      "hash": "5291b070666f366c5a11741e0e2b01ebe44afda0f650076777335be8f6820447",
+      "_output_file": "phishing_003_processed.json",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 36,
+        "level": "MEDIUM",
+        "reasons": [
+          "1 URL(s) detected",
+          "Urgency language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260502-C040",
+      "source_file": "sample.txt",
+      "entities": {
+        "wallets": [
+          "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+        ],
+        "emails": [
+          "john@example.com"
+        ],
+        "phones": [
+          "5551234567"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "hello, my email is john@example.com and phone is  NUMBER - NUMBER - NUMBER . wallet: 1bvbmseystwetqtfn5au4m4gfg7xjanvn2",
+      "timestamp": "2026-05-02T13:14:36.958620Z",
+      "hash": "13add74d1ca7ff1899390e692475a5ed0dfebf7c1c027cc3e8dcec8053e72b71",
+      "_output_file": "sample_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 39,
+        "level": "MEDIUM",
+        "reasons": [
+          "1 wallet(s) detected",
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 1,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-A0AA",
+      "source_file": "impersonation_003.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "prince.emmanuel@royalnigeria.net",
+          "fbi.agent.smith@fbi-cybercrime.net"
+        ],
+        "phones": [
+          "2348055500601",
+          "123456789012"
+        ],
+        "urls": [],
+        "names": [
+          "Prince Emmanuel Okafor"
+        ]
+      },
+      "raw_text": "nigerian prince \u2014 confidential business proposal i am prince emmanuel okafor of nigeria. i have $ NUMBER  million usd to transfer out of the country. i need your bank account details to complete the transfer. you will receive  NUMBER % commission ($ NUMBER  million). contact: prince.emmanuel@royalnigeria.net alternate: fbi.agent.smith@fbi-cybercrime.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  bank account:  NUMBER  ifsc: hdfc0001234 send $ NUMBER  processing fee to proceed.",
+      "timestamp": "2026-05-10T11:52:10.734530Z",
+      "hash": "e24ea7c4e793a2340fb352286afe26af69b59bc9e6b3bab58b4ef16cae58cd4e",
+      "_output_file": "impersonation_003_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 28,
+        "level": "LOW",
+        "reasons": [
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 2,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260502-51DF",
+      "source_file": "transactions.csv",
+      "entities": {
+        "wallets": [],
+        "emails": [],
+        "phones": [],
+        "urls": [],
+        "names": [
+          "Alice Bob",
+          "Charlie David"
+        ]
+      },
+      "raw_text": "alice bob  NUMBER  charlie david  NUMBER ",
+      "timestamp": "2026-05-02T13:14:13.649939Z",
+      "hash": "942d65e29d732415c69f9a98b0fd8b08fb884b3df27e5f15f0ba1505b4ae04ac",
+      "_output_file": "transactions_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 0,
+        "level": "LOW",
+        "reasons": [
+          "No high-risk extracted signals found"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 0,
+        "phones": 0,
+        "urls": 0,
+        "names": 2
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260502-4901",
+      "source_file": "chat.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "john@example.com"
+        ],
+        "phones": [
+          "5551234567"
+        ],
+        "urls": [],
+        "names": []
+      },
+      "raw_text": "chat log: john: hi, my email is john@example.com jane: my phone is  NUMBER - NUMBER - NUMBER ",
+      "timestamp": "2026-05-02T13:14:13.650948Z",
+      "hash": "36a2ae8686fbd5d230fa60e1fa3c84ea47e76d899002e1b7e6966db2d3f21877",
+      "_output_file": "chat_processed.json",
+      "intent": {
+        "labels": [
+          "general_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 10,
+        "level": "LOW",
+        "reasons": [
+          "No high-risk extracted signals found"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 1,
+        "urls": 0,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-44C0",
+      "source_file": "romance_002.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "stranded.businessman@outlook.com"
+        ],
+        "phones": [
+          "1500",
+          "442079460401"
+        ],
+        "urls": [],
+        "names": [
+          "Thomas"
+        ]
+      },
+      "raw_text": "sweetheart, i am stuck in london after my business trip. my wallet was stolen. i need $ NUMBER  for hotel and flight. please send money urgently via moneygram. contact me: stranded.businessman@outlook.com phone: + NUMBER - NUMBER - NUMBER - NUMBER  i will return everything double when i get back. i love you. your darling, thomas",
+      "timestamp": "2026-05-10T11:52:10.134903Z",
+      "hash": "12232e76c678911ea04a4afa894654092aaa7d43def06652db6c663c249fb4b8",
+      "_output_file": "romance_002_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 25,
+        "level": "LOW",
+        "reasons": [
+          "Urgency language detected (1 instances)",
+          "Crypto/funds transfer language detected (1 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 2,
+        "urls": 0,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-C366",
+      "source_file": "phishing_002.txt",
+      "entities": {
+        "wallets": [],
+        "emails": [
+          "support@paypal-alerts.net"
+        ],
+        "phones": [
+          "18005550302",
+          "202688291",
+          "192.168.45.23"
+        ],
+        "urls": [
+          "https://paypal-secure-verify.net/confirm",
+          "https://secure-bankofamerica-verify.com/paypal"
+        ],
+        "names": []
+      },
+      "raw_text": "your paypal account is limited. verify now! link: also check: contact: support@paypal-alerts.net phone: + NUMBER - NUMBER - NUMBER - NUMBER  your account will be closed in  NUMBER  hours if not verified. transaction id: txn- NUMBER - NUMBER  ip:  NUMBER . NUMBER ",
+      "timestamp": "2026-05-10T11:52:10.337168Z",
+      "hash": "aeeebb54efec8f36be68e02189d9770b382280f164ec72b2f8f56ef2c288edf2",
+      "_output_file": "phishing_002_processed.json",
+      "intent": {
+        "labels": [
+          "phishing"
+        ],
+        "confidence": 0.55
+      },
+      "risk_assessment": {
+        "score": 50,
+        "level": "MEDIUM",
+        "reasons": [
+          "2 URL(s) detected"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 0,
+        "emails": 1,
+        "phones": 3,
+        "urls": 2,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260510-6205",
+      "source_file": "inv_scam_001.txt",
+      "entities": {
+        "wallets": [
+          "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+        ],
+        "emails": [
+          "invest.profit@cryptoking.com"
+        ],
+        "phones": [
+          "18005550101",
+          "5000",
+          "20000"
+        ],
+        "urls": [
+          "https://cryptoking-returns.com"
+        ],
+        "names": [
+          "Michael Johnson\nLimited"
+        ]
+      },
+      "raw_text": "urgent: double your bitcoin in  NUMBER  hours! send funds to wallet 1bvbmseystwetqtfn5au4m4gfg7xjanvn2 contact our agent: invest.profit@cryptoking.com call now: + NUMBER - NUMBER - NUMBER - NUMBER  visit: guaranteed  NUMBER % return. invest  NUMBER  now get  NUMBER  back immediately. agent: michael johnson limited slots available. act fast. send money now.",
+      "timestamp": "2026-05-10T11:52:09.862869Z",
+      "hash": "b3c9956b762c5241cba05e02a3480e1ad0fdc44caf7edc66e877a08b9d48a0f5",
+      "_output_file": "inv_scam_001_processed.json",
+      "intent": {
+        "labels": [
+          "crypto_fraud"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 80,
+        "level": "HIGH",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (2 instances)",
+          "Crypto/funds transfer language detected (2 instances)"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 3,
+        "urls": 1,
+        "names": 1
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "Traceback (most recent call last):\n  File \"C:\\Users\\shett\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\tensorflow\\python\\pywrap_tensorflow.py\", line 73, in <module>\n    from tensorflow.python._pywrap_tensorflow_internal import *\nImportError: DLL load failed while importing _pywrap_tensorflow_internal: A dynamic link library (DLL) initialization routine failed.\n\n\nFailed to load the native TensorFlow runtime.\nSee https://www.tensorflow.org/install/errors for some common causes and solutions.\nIf you need help, create an issue at https://github.com/tensorflow/tensorflow/issues and include the entire stack trace above this error message."
+      }
+    },
+    {
+      "case_id": "CASE-20260512-4B46",
+      "source_file": "test_fraud_evidence.txt",
+      "entities": {
+        "wallets": [
+          "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "emails": [
+          "admin@crypto-yield-guarantee.com"
+        ],
+        "phones": [
+          "18005550199",
+          "2026051314"
+        ],
+        "urls": [
+          "http://secure-wallet-verify.onion"
+        ],
+        "names": []
+      },
+      "raw_text": "intercept log: telegram export [ NUMBER - NUMBER - NUMBER   NUMBER : NUMBER : NUMBER  utc] participants: unknown_actor_99, target_victim unknown_actor_99: hello! i am reaching out regarding your recent inquiry into our decentralized wealth generation fund. target_victim: yes, i am interested, but i want to make sure my money is safe. unknown_actor_99: absolutely. we offer a  NUMBER % guaranteed profit return within  NUMBER  hours. however, due to recent market fluctuations, it is urgent that you initiate the transfer immediately. if you do not act now, your account allocation will be permanently frozen. target_victim: okay, how do i send the funds? unknown_actor_99: you must transfer exactly  NUMBER  bitcoin (btc) to our secure cold storage wallet. the wallet address is: 1a1zp1ep5qgefi2dmptftl5slmv7divfna once the transfer is complete, send a confirmation email to admin@crypto-yield-guarantee.com so we can verify the blockchain ledger. target_victim: is there a customer service number i can call? unknown_actor_99: yes, you can reach our priority desk at  NUMBER - NUMBER - NUMBER - NUMBER . also, please log into our portal at to finalize the smart contract. do this immediately to avoid loss of funds.",
+      "timestamp": "2026-05-13T22:01:35.885027Z",
+      "hash": "7efd7017a1b33a963dde971e90aee4336e7dad067ade90f471ecf5ac7405ed31",
+      "chain_of_custody": {
+        "officer": "Lead Investigator",
+        "source": "Intercepted Communication - Telegram Export"
+      },
+      "intent": {
+        "labels": [
+          "crypto_fraud",
+          "phishing"
+        ],
+        "confidence": 0.75
+      },
+      "risk_assessment": {
+        "score": 100,
+        "level": "CRITICAL",
+        "reasons": [
+          "1 wallet(s) detected",
+          "1 URL(s) detected",
+          "Urgency language detected (5 instances)",
+          "Crypto/funds transfer language detected (10 instances)"
+        ],
+        "trigger_words": [
+          "fund",
+          "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+          "immediately",
+          "urgent",
+          "transfer",
+          "http://secure-wallet-verify.onion",
+          "btc",
+          "wallet",
+          "cold storage",
+          "frozen",
+          "within"
+        ]
+      },
+      "entity_counts": {
+        "wallets": 1,
+        "emails": 1,
+        "phones": 2,
+        "urls": 1,
+        "names": 0
+      },
+      "ai_metadata": {
+        "model": "backend-rule-scorer",
+        "version": "1.0",
+        "fallback_reason": "cannot import name 'cached_download' from 'huggingface_hub' (C:\\Users\\Manushree P M\\Downloads\\EL_final_6thSem\\backend\\.venv\\Lib\\site-packages\\huggingface_hub\\__init__.py)"
+      }
+    }
+  ],
+  "summary": {
+    "module1_ok": true,
+    "module2_ok": true,
+    "module3_ok": false,
+    "similarity_ok": true,
+    "total_files": 20,
+    "m1_processed": 20,
+    "m2_processed": 20,
+    "m3_processed": 0,
+    "total_errors": 1,
+    "alerts_triggered": 0,
+    "case_links_found": 0
+  },
+  "errors": [
+    {
+      "stage": "module3",
+      "error": "exit code 1"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "batch_results": [
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-6205",
+      "entities_processed": 7,
+      "alerts_triggered": 10,
+      "related_cases_found": 0,
+      "processing_time_ms": 41128.100633621216
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-DB60",
+      "entities_processed": 7,
+      "alerts_triggered": 10,
+      "related_cases_found": 0,
+      "processing_time_ms": 39122.671604156494
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-16FD",
+      "entities_processed": 9,
+      "alerts_triggered": 14,
+      "related_cases_found": 0,
+      "processing_time_ms": 55015.1104927063
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-9A14",
+      "entities_processed": 6,
+      "alerts_triggered": 8,
+      "related_cases_found": 0,
+      "processing_time_ms": 32702.5408744812
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-E2E9",
+      "entities_processed": 6,
+      "alerts_triggered": 9,
+      "related_cases_found": 0,
+      "processing_time_ms": 29366.74165725708
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-A69E",
+      "entities_processed": 4,
+      "alerts_triggered": 6,
+      "related_cases_found": 0,
+      "processing_time_ms": 18461.432695388794
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-44C0",
+      "entities_processed": 4,
+      "alerts_triggered": 0,
+      "related_cases_found": 0,
+      "processing_time_ms": 17857.470989227295
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-F150",
+      "entities_processed": 3,
+      "alerts_triggered": 2,
+      "related_cases_found": 0,
+      "processing_time_ms": 14330.438613891602
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-F020",
+      "entities_processed": 4,
+      "alerts_triggered": 5,
+      "related_cases_found": 0,
+      "processing_time_ms": 18632.96937942505
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-07D4",
+      "entities_processed": 5,
+      "alerts_triggered": 1,
+      "related_cases_found": 0,
+      "processing_time_ms": 22731.87017440796
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-C366",
+      "entities_processed": 6,
+      "alerts_triggered": 1,
+      "related_cases_found": 0,
+      "processing_time_ms": 27542.415142059326
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-8FC6",
+      "entities_processed": 4,
+      "alerts_triggered": 2,
+      "related_cases_found": 0,
+      "processing_time_ms": 17454.43344116211
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-6993",
+      "entities_processed": 6,
+      "alerts_triggered": 0,
+      "related_cases_found": 0,
+      "processing_time_ms": 25211.395025253296
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-474A",
+      "entities_processed": 6,
+      "alerts_triggered": 9,
+      "related_cases_found": 1,
+      "processing_time_ms": 33888.78774642944
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-1135",
+      "entities_processed": 8,
+      "alerts_triggered": 11,
+      "related_cases_found": 0,
+      "processing_time_ms": 54575.95205307007
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-8A6F",
+      "entities_processed": 6,
+      "alerts_triggered": 4,
+      "related_cases_found": 1,
+      "processing_time_ms": 33685.9073638916
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-99B2",
+      "entities_processed": 6,
+      "alerts_triggered": 8,
+      "related_cases_found": 0,
+      "processing_time_ms": 47917.56868362427
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-24EE",
+      "entities_processed": 4,
+      "alerts_triggered": 2,
+      "related_cases_found": 0,
+      "processing_time_ms": 20478.250741958618
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-A0AA",
+      "entities_processed": 5,
+      "alerts_triggered": 2,
+      "related_cases_found": 0,
+      "processing_time_ms": 25085.158586502075
+    },
+    {
+      "status": "success",
+      "case_id": "CASE-20260510-7743",
+      "entities_processed": 5,
+      "alerts_triggered": 7,
+      "related_cases_found": 0,
+      "processing_time_ms": 28978.833198547363
+    }
+  ],
+  "stats": {
+    "case_count": 20,
+    "entity_count": 90,
+    "alert_count": 353,
+    "rel_count": 2
+  },
+  "linking": {
+    "total_candidates": 19,
+    "filtered_count": 0,
+    "found": true,
+    "network_risk_level": "LOW",
+    "top_links": []
+  },
+  "rings": {
+    "cluster_count": 0,
+    "stats": {
+      "total_clusters": 0
+    },
+    "clusters": []
+  }
+}

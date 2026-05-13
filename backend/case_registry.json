@@ -1,0 +1,16 @@
+{
+  "CASE-20260512-4B46": {
+    "title": "Forensic Case: 4B46",
+    "status": "INVESTIGATION",
+    "stage": "INVESTIGATION",
+    "assignedTo": "Lead Investigator",
+    "priority": "HIGH",
+    "notes": "",
+    "created_by": "Lead Investigator",
+    "risk_score": 0,
+    "entity_count": 0,
+    "id": "CASE-20260512-4B46",
+    "updated_at": "2026-05-13T22:01:35.890000",
+    "created_at": "2026-05-12T21:10:19.765345"
+  }
+}

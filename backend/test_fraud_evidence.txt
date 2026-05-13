@@ -1,0 +1,14 @@
+INTERCEPT LOG: TELEGRAM EXPORT [2026-05-13 14:02:11 UTC]
+PARTICIPANTS: Unknown_Actor_99, Target_Victim
+
+Unknown_Actor_99: Hello! I am reaching out regarding your recent inquiry into our decentralized wealth generation fund.
+Target_Victim: Yes, I am interested, but I want to make sure my money is safe.
+Unknown_Actor_99: Absolutely. We offer a 100% guaranteed profit return within 48 hours. However, due to recent market fluctuations, it is URGENT that you initiate the transfer immediately. If you do not act now, your account allocation will be permanently frozen.
+Target_Victim: Okay, how do I send the funds?
+Unknown_Actor_99: You must transfer exactly 2.5 Bitcoin (BTC) to our secure cold storage wallet. 
+The wallet address is: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+Once the transfer is complete, send a confirmation email to admin@crypto-yield-guarantee.com so we can verify the blockchain ledger.
+Target_Victim: Is there a customer service number I can call?
+Unknown_Actor_99: Yes, you can reach our priority desk at 1-800-555-0199. 
+Also, please log into our portal at http://secure-wallet-verify.onion to finalize the smart contract. Do this immediately to avoid loss of funds.

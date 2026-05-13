@@ -1,0 +1,24 @@
+{
+  "CASE-20260510-F020": [
+    {
+      "id": "COM-f3de3be1",
+      "user": "Lead Investigator",
+      "time": "2026-05-12 13:45",
+      "text": "hi"
+    },
+    {
+      "id": "DCF-d004feaf",
+      "user": "System AI",
+      "time": "2026-05-12 13:46",
+      "text": "De-confliction request queued for CASE-20260510-F020. 9 overlap(s) attached for review."
+    }
+  ],
+  "CASE-20260502-C040": [
+    {
+      "id": "DCF-a5f8adc0",
+      "user": "System AI",
+      "time": "2026-05-12 21:11",
+      "text": "De-confliction request queued for CASE-20260502-C040. 8 overlap(s) attached for review."
+    }
+  ]
+}
